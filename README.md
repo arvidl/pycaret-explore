@@ -11,5 +11,6 @@ Exploration of PyCaret functionality
 -  `conda install jupyter`
 -  `conda install nbconvert`
 -  `conda install seaborn`
+-  `conda install numpy==1.22`   # Numba needs NumPy 1.22 or less
 -  #`conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch`   (to get PyTorch and A5000 GPU running)
 
