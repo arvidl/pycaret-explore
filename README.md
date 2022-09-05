@@ -10,5 +10,6 @@ Exploration of PyCaret functionality
 -  `pip install --pre pycaret` 
 -  `conda install jupyter`
 -  `conda install nbconvert`
--  `conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch`   (to get PyTorch and A5000 GPU running)
+-  `conda install seaborn`
+-  #`conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch`   (to get PyTorch and A5000 GPU running)
 
